@@ -8,3 +8,5 @@ Longitudinal Vehicle Dynamics Calculator created in MATLAB based on my project d
 - Calculation of gear ratio of first gear(i1) is based on check of traction force or check of maximum force for achieving requested maximum slope value
 - Calculation in of gear ratios between the gears is limited to a case that there can be 5 gears, 4th gear must be 1 and 5th must have overdrive value. 
 
+# Output 
+- Calculated values are put into .xls named VucniProracun.xls
